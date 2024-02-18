@@ -1,5 +1,6 @@
 Laxamana, Angel A. (2022-13386) <br />
 BS Computer Science <br />
+Link: https://samoy-ed.github.io/Laxamana-U1L-exercise02.io/  <br />
 
 How to create GitHub page: <br />
 1. Create a repository with <repository_name>.io <br />
